@@ -1,5 +1,7 @@
 GItの練習をしていきます
 基本的な変更を学びます
 ・git add
-/git commit
+・git commit
+・git rm
+・git status
 
